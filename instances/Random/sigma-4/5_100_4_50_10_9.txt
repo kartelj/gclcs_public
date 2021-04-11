@@ -1,0 +1,16 @@
+|S|=5	Sigma=4	  |P|=2	k=10
+100	bdcaccaaaddcddadabdbcdcabccabcbacdaaacaabcabbcdbcadaaabacaccdddacdabdadcabacdabbbcdcdcdcbabbacdcacdc
+100	dbabbccabaacccddacadccabcddddbacdbdadaacccbadcccdbbcdaabcdbbdcaaadcadcbcdbcbacbacbcdccdbabcbdacabdba
+100	ccbccacbaaaaaadcddabcadbdddddddacbcaacdddcbbcacdbaabaadcdccbdabcdcaacacccacbccaaaaacccaabccbdcbbdcdd
+100	caaadadcbaabdbcdadadcdccabaddcbadaabacbbccdaaabcbcdbbbbcaccbaadbbaadbcccabcbabbcadadcadcaacbbbacaadc
+100	acdacaadbbacbabdbdcbccaabababdbadaaadacbcbdddddaccaabbdbcabcadcdbaadcadabaaaccaaaacadcccccccbabadadb
+2	ca
+2	ad
+2	cb
+2	aa
+2	cb
+2	bc
+2	da
+2	ca
+2	ca
+2	cd

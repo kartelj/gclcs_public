@@ -1,0 +1,13 @@
+|S|=2	Sigma=20	  |P|=5	k=10
+100	ejbleagriicengkbnmsnjgieddtkokbmifmipdtfnritaqgolgrfopohqomgcibnfjjshmpsagpjrjqrnpdaegnrddjlnfipriad
+100	beadfliqiplcnbensmjsbeoddkkgdpgmlbipptfecgnitttqgjrbqahphomgcijhkldomsblqapjbrrksdegnfqndrjneipiemia
+5	beaii
+5	nbnms
+5	eddkk
+5	biptf
+5	nitqg
+5	rpomg
+5	cijhm
+5	apjrr
+5	degnr
+5	jnpia

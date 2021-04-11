@@ -1,0 +1,33 @@
+﻿  gclcs_vns.cpp
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(44,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(82,9): warning C4101: 'j': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(82,6): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(122,6): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(214,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(221,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(225,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(228,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(295,18): warning C4101: 'index': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(327,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(328,9): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(329,9): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(341,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(342,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(343,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(325,6): warning C4101: 'max': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(323,9): warning C4101: 'k': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(325,11): warning C4101: 'maxk': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(323,6): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(368,9): warning C4101: 'same': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(369,9): warning C4101: 'ls1fv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(476,28): warning C4101: 'len': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(477,16): warning C4101: 'bestc': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(533,32): warning C4101: 'len': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(657,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(623,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(624,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(625,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(637,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcs_vns.cpp(638,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  random.cpp
+  Generating Code...

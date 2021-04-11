@@ -1,0 +1,54 @@
+﻿  gclcs_vns.cpp
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(194,31): warning C4101: 'sc2': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(270,17): warning C4101: 'reverseSc': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(270,11): warning C4101: 'k': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(272,23): warning C4101: 'cachedFv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(437,6): warning C4101: 'found': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(440,13): warning C4101: 'end': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(435,12): warning C4101: 'k': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(440,27): warning C4101: 'prevPos': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(441,7): warning C4101: 'solClean': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(440,6): warning C4101: 'start': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(440,18): warning C4101: 'nextPos': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(438,23): warning C4101: 'cachedFv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(441,23): warning C4101: 'solCleanNew': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(435,9): warning C4101: 'j': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(435,18): warning C4101: 'scCheck': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(490,6): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(551,12): warning C4101: 'oldc': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(552,17): warning C4101: 'controlFv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(550,8): warning C4101: 'j': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(550,6): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(552,9): warning C4101: 'fastFv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(551,7): warning C4101: 'newc': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(708,9): warning C4101: 'j': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(771,51): warning C4018: '<': signed/unsigned mismatch
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(783,22): warning C4018: '<': signed/unsigned mismatch
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(827,18): warning C4101: 'index': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(868,7): warning C4101: 'max': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(866,10): warning C4101: 'k': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(868,12): warning C4101: 'maxk': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(866,7): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(929,7): warning C4101: 'newc': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1037,14): warning C4101: 'len': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1037,19): warning C4101: 'k': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1037,10): warning C4101: 'ir': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1082,31): warning C4101: 'newFvTest': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1080,14): warning C4101: 'len': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1080,19): warning C4101: 'k': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1083,7): warning C4101: 'xTmp': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1080,10): warning C4101: 'ir': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1188,27): warning C4101: 'len': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1188,16): warning C4101: 'sr': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1188,20): warning C4101: 'sx': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1188,24): warning C4101: 's': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1188,12): warning C4101: 'ir': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1190,31): warning C4101: 'tmpFv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1319,9): warning C4101: 'same': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1321,9): warning C4101: 'oldFv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1319,6): warning C4101: 'i': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1320,9): warning C4101: 'ls1fv': unreferenced local variable
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcs_vns.cpp(1435,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  random.cpp
+  Generating Code...
+  gclcsVnsProject.vcxproj -> C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcsVnsProject\Debug\gclcsVnsProject.exe

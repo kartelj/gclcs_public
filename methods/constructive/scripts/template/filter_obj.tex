@@ -1,0 +1,32 @@
+\documentclass[border=2pt]{standalone}	
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=1.8}
+\pgfplotscreateplotcyclelist{mybars}{
+	{black!60!blue   ,fill=white!60!blue },
+	{black!60!purple   ,fill=white!60!purple },
+	{black!60!brown   ,fill=white!60!brown },
+	{black!60!teal   ,fill=white!60!teal }}
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+	axis y discontinuity=crunch,
+	ylabel=avg. solution quality,
+	xlabel=filtering $k_{\mathrm{best}}$,
+	enlargelimits=0.15,
+	legend style={at={(0.5,-0.17)},
+	anchor=north,legend columns=-1},
+	ybar,
+	symbolic x coords={0, 10, 50, 100, 200},
+	xtick=data,
+	cycle list name=mybars,
+	%nodes near coords,
+	%nodes near coords align={vertical},
+	bar width=6pt,
+]
+
+<<PLOT_DATA>>
+
+\legend{BS-Prob, BS-UB, BS-EX, BS-Min}
+\end{axis}
+\end{tikzpicture}
+\end{document}

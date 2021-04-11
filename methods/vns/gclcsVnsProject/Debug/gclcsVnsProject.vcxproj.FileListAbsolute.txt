@@ -1,0 +1,4 @@
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcsVnsProject\Debug\gclcsVnsProject.exe
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs\vns\gclcsVnsProject\Debug\gclcsVnsProject.pdb
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcsVnsProject\Debug\gclcsVnsProject.exe
+C:\akcijanje\nauka\moji radovi\aktivno\gclcs_public\vns\gclcsVnsProject\Debug\gclcsVnsProject.pdb

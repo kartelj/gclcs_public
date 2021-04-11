@@ -1,0 +1,16 @@
+|S|=5	Sigma=20	  |P|=5	k=10
+100	jnfbeabokdphqilmhfeibmnebpeshqlfcdjcobptpkdorrbtrpfhthhnkjlcffbdajshorrlmclegtkokdnjijglqqteqrneodni
+100	btocebdqokkciblbkmhitmdlnebnisfccmdjbjbfdrnoobarbrhmkhntmjjlffjodqairqrcllbgqtpfokkbdaniqjeqeaeddlii
+100	begjebbokaskdgilmnhimntmpnebksfrccdojccbtdtimorrbrjieahkhnjliffqjdomlrdjmrbcllgtkdjnieigiqgejqeerdli
+100	kbebcqnokalklilmhsitmfbfnnefbskfrckadjcbctdoarbgdrbhhsnpljlbfqfjoreprorclkggstttikpdpngiiqeccgqjedis
+100	bebbmoekfptihlmmhipcmnekgbbeqsfcdbfjqbkqfigdorebroohhdonjlkkfbfdnjlorrdmrhclgtelkpdbfnriqsheqaetdedi
+5	bebok
+5	ilmhi
+5	mnebs
+5	fcdjb
+5	dorbr
+5	hhnjl
+5	ffjor
+5	rclgt
+5	kdniq
+5	eqedi

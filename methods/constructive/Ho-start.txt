@@ -1,0 +1,112 @@
+/** Ho et al.'s algorithm */
+int CLCS_solution:: HO()
+{
+     //TODO
+    /*int Alen = inst->S[0].size();
+    int Blen = inst->S[1].size();
+
+    vector< vector< int>> nextA(size + 1, vector<int>(Alen + 1, 0));
+    vector< vector< int>> nextB(size + 1, vector<int>(Blen + 1, 0));
+    //construct array of nextA
+    for (int i = 1; i <= size; ++i) {
+        locationA = Alen + 1;
+        for (int j = Alen; j > 0; --j) {
+            if (j == Alen)
+                nextA[i][j] = locationA;
+            if (A[j-1] == i) {
+                locationA = j;
+                nextA[i][j - 1] = locationA;
+            }
+            else {
+                nextA[i][j - 1] = locationA;
+            }
+        }
+    }
+    //construct array of nextB
+    for (int i = 0; i <= size - 1; ++i) {
+        locationB = Blen + 1;
+        for (int j = Blen; j > 0; --j) {
+            if (j == Blen)
+                nextB[i][j] = locationB;
+            if (B[ j - 1 ] == i) {
+                locationB = j;
+                nextB[i][j - 1] = locationB;
+            }
+            else {
+                nextB[i][j - 1] = locationB;
+            }
+        }
+    }
+    //perform the HO -alg.
+    /* L lattice: */
+    /*vector<vector<int>> L = vector(Alen, vector<int>(Blen, 0));
+
+    for (int i = 0; i <= m; i++)  
+    {  
+        for (int j = 0; j <= n; j++)  
+        {  
+        if (i == 0 || j == 0)  
+            L[i][j] = 0;  
+      
+        else if (X[i - 1] == Y[j - 1])  
+            L[i][j] = L[i - 1][j - 1] + 1;  
+      
+        else
+            L[i][j] = std:: max( L[i - 1][j], L[i][j - 1] );  
+        }  
+    }
+    vector<std::tuple<int, int, int>> LS;
+    LS[ 0 ] =  std::make_tuple(0, 0, 0);  
+    vector<vector<int>> CR(Alen, vector<int>());
+    vector<vector<<vector<int>>> PCR((int)inst->P.size(),  vector(Alen, vector<int>()) ); 
+    for(int k = 0; k  < inst->P.size(); ++k)    
+    {
+        LS.push_back(std::make_tuple(nextA[ inst->P[ k ] ][ LS[ k - 1 ], nextB[ inst->P[ k ] ][ LS[ k - 1 ]], k));
+        if(std::get<0>(tpl) > Alen or std::get<1>(tpl) > Blen) 
+           return -100000;
+        for(int j = std::get<1>(LS[ k ]) - 1; j <= Blen; ++j)
+             L[std::get<0>(LS[ k ]) - 1 ][ j ] = INT_MIN;
+        
+        for(int i = std::get<0>(LS[ k ]); i <= Alen; ++i)
+           L[ i ][ std::get<1>(LS[ k ]) - 1 ] = INT_MIN;
+        
+        vector<int> CR_ski_1; 
+        for(int i = std::get<1>(LS[ k ]); i <= Blen; ++i) 
+            CR_sk_i.push_back(i);
+        
+        CR[ std::get<0>(LS[ k ]) - 1 ].push_back( CR_sk_i );
+    
+        for(int i = get<0>(LS[ k ]); i <= Alen; ++i)
+        {
+            int j = std::get<1>(LS[ k ]);
+            int p = 0; int q = 0;
+            while(p < CR[ i-1 ].size() and q <= PCR[ k - 1 ][ i - 1 ]) 
+            {
+
+                  int Len = 0; // calculate from L or L' (not finished)
+                  if(L[ i ][ j ] != Len )
+                  {
+                     L_prime[ i ][ j ] = L[ i ][ j ];
+                     L[ i ][ j ]  = Len;
+                     CR[ i ].push_back( j ); 
+                     if(inst->S[ 0 ][ i + 1 ] == inst->S[ 1 ][ j + 1 ] and  inst->S[ 1 ][ j + 1 ] == inst->P[ k ]) 
+                        PCR[ k ][ i ].push_back( j + 1 ); 
+                     j++;
+                  }else{
+                        p++; q++;//next positions
+                        if(CR[ i - 1 ].size() >= p) 
+                            j =  CR[ i - 1 ][ p ];
+                        if(PCR[ k - 1 ][ i - 1 ].size() > q )
+                        {
+                           if(j > PCR[ k - 1 ][ i - 1 ][ q ]) 
+                              j =  PCR[ k - 1 ][ i - 1 ][ q ];
+                        }
+                  }
+            }
+        }      
+ 
+    }
+    return L[Alen][Blen];*/
+    return 0;
+}
+

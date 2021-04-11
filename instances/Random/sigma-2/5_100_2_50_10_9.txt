@@ -1,0 +1,16 @@
+|S|=5	Sigma=2	  |P|=2	k=10
+100	baabbbaaaaaabbbaababbaabbbabbabaaaababbaaabaaaaaabbabababbaabbbbabaaaaabbabbbabbaabbbbbbabaaaaabbbbb
+100	abbbbabaaababbbbaaaaabbbbabaaaaabbbbbbababbbaababaabaabbabaaabababbbbaabababaaaaabbabbabbbbabbaaabbb
+100	aabbaaabaaaaaaaabbaabaabaaaababaaaaababaaaabbabbaaabaaaababbaaabaaaaaabbbabaababbbababbababaabaabaab
+100	abaaaabaaaaabbaaaaaabbbbabaaaabaaabbababaaabbbaaaabbbaaaaabaabaabababaabbbaaabbbabbabbaaabbaabbbbbba
+100	abbaaabbaaaabaaabbbbbaaabababbbbaababbbbaaaaaabbaabbbbbaababbaabaabbbaabbbbbbbaababbbbbbaaabbbabbaba
+2	aa
+2	aa
+2	bb
+2	ab
+2	aa
+2	ba
+2	aa
+2	ba
+2	bb
+2	bb

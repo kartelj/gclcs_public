@@ -1,0 +1,8 @@
+|S|=2	Sigma=20	  |P|=2	k=5
+100	ctagdbsplbqfrepokgsbttippgiccfgjsbnmefpthmpckgbeqbfqkfqkfigeoodokkbdnrlkrdmhelpbfrshaatedojiaocfbmqc
+100	ktjfranesolmbknhrhqgojmtgpsljckcljeflbgndbfakolfdoilhehdaciaaalqpftrogafdatkisgnbiebfhasrcibettrhsrm
+2	fb
+2	fn
+2	fk
+2	rk
+2	ac

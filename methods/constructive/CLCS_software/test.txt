@@ -1,0 +1,7 @@
+|S|=3	Sigma=2	|P|=4	k=2
+10	aaaaabbbbb
+10      aaaaaabbbb
+10	aaaaabbbbb
+4	aaaa
+4	bbbb
+

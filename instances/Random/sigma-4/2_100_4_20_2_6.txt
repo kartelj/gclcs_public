@@ -1,0 +1,5 @@
+|S|=2	Sigma=4	  |P|=5	k=2
+100	bcabaddabbabaabddbccbabaaddbabdbcdaacccbbbdbdaacabaadadaccdcbcdbdbbbccbabcabdbaadbbcdbcabbdbcadcccda
+100	acbdcaadbcbccbcbbdcbbbacbaabcacbddbabcdaabbdcdaccadcccabdddadabbccdbdabcdcccbdacbacdaaacbbbbacdaabac
+5	bbbdd
+5	acaba

@@ -1,0 +1,8 @@
+|S|=2	Sigma=20	  |P|=2	k=5
+100	ffjorrclgtkdniqeqedodijnfadphqferbpebhqlcoptpkrtpfthkrhcbdashlmekohjnjglqtrnontocdqkjcbbktdlnilcmjbf
+100	rnodbamktmjodqaiqlbqpfokbrajaedliegjbabskdrgntmpnhkrcoccttimrjieakiqdmldjmhblnjieiggjerlkcqjnalkllst
+2	do
+2	rb
+2	rh
+2	hn
+2	jl

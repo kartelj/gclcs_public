@@ -1,0 +1,1 @@
+g++ -Ofast  -fpermissive gclcs_vns.cpp random.cpp
