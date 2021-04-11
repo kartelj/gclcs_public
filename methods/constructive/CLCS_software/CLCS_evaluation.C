@@ -103,7 +103,7 @@ int ub(const Node &v, const CLCS_inst *inst)
 	int ub_2 = INT_MAX;
 	if(inst->M_lcs.size() > 0)
 	   ub_2 = clcs_eval::ub2(v, inst);
-        int ub_3 = inst->M[ 0 ][ v.pL[ inst->c_x ] - 1 ][ v.pL[ inst->c_y ] - 1 ][v.QL[ inst->c_p ] ];
+        int ub_3 = 10000; //inst->M[ 0 ][ v.pL[ inst->c_x ] - 1 ][ v.pL[ inst->c_y ] - 1 ][v.QL[ inst->c_p ] ];
         //if( min(ub_1, ub_2) > v.l_v  + ub_3 )
 	//
 	////    cout << "------------------------------> " << std::min(ub_1, ub_2) << " " << ub_3 << endl;i

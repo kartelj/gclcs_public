@@ -1,7 +1,0 @@
-|S|=3	Sigma=8	|P|=4	k=2
-15	badebcdffabefgh
-15      babecddddffefgh
-15	babbdecddefffgh
-5	babcd
-4	efgh
-

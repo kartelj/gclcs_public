@@ -24,7 +24,7 @@ namespace clcs {
 /** mhlib external parameters */
 mh::string_param ifilelook("ifilelook", "map structure from lookahead", "");
 mh::int_param ub("ub", "upper bound used as a guidance: 0: LCS based UB: 1: CLCS UB (min of two, using the CLCS DP-based matrices)", 0, 0, 1); 
-mh::int_param pruning("pruning", "turn on the Prune method", 1, 0, 1);
+mh::int_param pruning("pruning", "turn on the Prune method", 0, 0, 1);
 mh::int_param bacteria("bacteria", "bacteria intances tested", 0, 0, 1);
 CLCS_inst::CLCS_inst(const std::string &fname) : filename(fname)
 {
@@ -526,8 +526,10 @@ void CLCS_inst::embeding()
      /**Embed[p, i, u ] **/
      cout << " ================================== 3D Embed strucutures ============================= " << endl;
      for(int p = 0; p < P.size(); ++p)
-         Embed.push_back( embed(p) ); 
-     
+     {
+	  cout << "Embed ===== " << endl;
+	  Embed.push_back( embed(p) ); 
+     }
      /*
      for(int p = 0; p < P.size(); ++p)
      { 
