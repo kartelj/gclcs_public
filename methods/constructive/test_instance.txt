@@ -1,4 +1,0 @@
-2	2	 1
-5	aaaaa
-20	abababababaababababb
-20	abababababaababababa

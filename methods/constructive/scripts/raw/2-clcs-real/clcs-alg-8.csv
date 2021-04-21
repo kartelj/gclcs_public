@@ -1,9 +1,0 @@
-               index file runs   obj_mean    obj_sd ttot_mean
-ds0_HKH     ds0_HKH   21  60.619048 18.532340     0.017
-ds1_HKH     ds1_HKH   15  63.933333 14.747720     0.019
-ds1_HKSH   ds1_HKSH   15  63.866667 14.749657     0.017
-ds1_HKSTH ds1_HKSTH   15  63.800000 14.804439     0.024
-ds2_HKSH   ds2_HKSH   15  70.866667 27.244571     0.052
-ds2_HKSTH ds2_HKSTH   15  69.133333 27.055147     0.051
-ds3_HKH     ds3_HKH   10 103.900000 42.154346     0.188
-ds4_DGGG   ds4_DGGG   15  43.866667  3.419830     0.049
